@@ -1,0 +1,6 @@
+1,Prabesh,Khadka,1
+2,Kumar,lamichhane,4
+3,Amit,Chaulagain,3
+4,Prabin,Kunwar,3
+5,Bishal,Dotel,2
+6,Aasis,Paneru,5
